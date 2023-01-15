@@ -1,4 +1,4 @@
-![logo](https://github.com/IlluminateSoura/IlluminateSoura/blob/main/Brown%20Grey%20Creative%20Modern%20Online%20Portfolio.png)
+
 <h1 align="center">Hi 👋, I'm Sourasis Mukherjee</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
