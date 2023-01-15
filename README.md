@@ -1,7 +1,8 @@
+![logo](https://github.com/IlluminateSoura/IlluminateSoura/blob/main/Brown%20Grey%20Creative%20Modern%20Online%20Portfolio.png)
 <h1 align="center">Hi 👋, I'm Sourasis Mukherjee</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
-<img align="right" width="400" alt="coding"  src="https://media1.giphy.com/media/61XQCwucaDapRLPHzx/giphy.gif">
+<img align="right" width="300" alt="coding"  src="https://media1.giphy.com/media/61XQCwucaDapRLPHzx/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illuminatesoura&label=Profile%20views&color=0e75b6&style=flat" alt="illuminatesoura" /> </p>
 
