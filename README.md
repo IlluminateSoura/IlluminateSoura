@@ -1,4 +1,5 @@
-![logo](https://github.com/IlluminateSoura/IlluminateSoura/blob/main/Github%20Banner.png)
+![Github Banner](https://user-images.githubusercontent.com/100007726/212586558-4048e2e9-7a66-4ea8-b1b5-ef49f43081c0.png)
+
 <h1 align="center">Hi 👋, I'm Sourasis Mukherjee</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
